@@ -1,10 +1,9 @@
-<div class="form-group"> <br>
-  <app-toggle<br>
-    label="Premium Features Enabling"<br>
-    [checked]="isPremium"<br>
-    (checkedChanged)="isPremium = $event"<br>
-    [disabled]="false"><br>
-  </app-toggle><br>
-</div><br>
-<br>
+<div class="form-group">
+  <app-toggle>
+    label="Premium Features Enabling"
+    [checked]="isPremium"
+    (checkedChanged)="isPremium = $event"
+    [disabled]="false">
+  </app-toggle>
+</div>
 Recommended to used enveloped by a form group container.
