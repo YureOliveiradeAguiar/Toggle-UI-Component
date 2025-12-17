@@ -4,6 +4,6 @@
     [checked]="isPremium"
     (checkedChanged)="isPremium = $event"
     [disabled]="false">
-  </app-toggle>
+  </>
 </div>
 Recommended to used enveloped by a form group container.
