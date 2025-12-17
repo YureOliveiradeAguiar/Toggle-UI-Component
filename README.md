@@ -1,3 +1,4 @@
+```html
 <div class="form-group">
   <app-toggle>
     label="Premium Features Enabling"
@@ -6,4 +7,5 @@
     [disabled]="false">
   </>
 </div>
+```
 Recommended to used enveloped by a form group container.
