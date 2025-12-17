@@ -1,4 +1,4 @@
-<img src="demo.gif" width="350px" alt="Demo">
+<img src="demo.gif" width="350px" alt="Demo" style="border-radius: '8px'">
 ```html
 <div class="form-group">
   <app-toggle>
