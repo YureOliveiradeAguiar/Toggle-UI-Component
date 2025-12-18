@@ -11,4 +11,4 @@
   </>
 </div>
 ```
-Recommended to used enveloped by a form group container.
+It is recommended to be used enveloped by a form group container.
